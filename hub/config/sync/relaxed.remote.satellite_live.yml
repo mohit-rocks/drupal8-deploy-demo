@@ -1,0 +1,7 @@
+uuid: 7b9001c4-80dd-4e4d-a6bd-d7d8ed2ea2c3
+langcode: en
+status: true
+dependencies: {  }
+id: satellite_live
+label: 'Satellite Live'
+uri: aHR0cDovL3JlcGxpY2F0b3I6cmVwbGljYXRvckBzYXRlbGxpdGUubG5kby5zaXRlL3JlbGF4ZWQ=

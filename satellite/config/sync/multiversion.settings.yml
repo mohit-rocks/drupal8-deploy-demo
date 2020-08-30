@@ -1,0 +1,35 @@
+supported_entity_types:
+  - node
+  - taxonomy_term
+  - comment
+  - menu_link_content
+  - block_content
+  - file
+  - media
+  - shortcut
+  - entity_test
+  - entity_test_rev
+  - entity_test_mul
+  - entity_test_mulrev
+  - entity_test_local
+  - content_moderation_state
+  - replication_log
+  - paragraph
+  - paragraphs_library_item
+  - crop
+  - poll
+  - poll_choice
+  - redirect
+  - path_alias
+enabled_entity_types:
+  - block_content
+  - comment
+  - file
+  - menu_link_content
+  - node
+  - path_alias
+  - shortcut
+  - taxonomy_term
+  - replication_log
+_core:
+  default_config_hash: kDKYajaLsA6IjFwybONkAVOPMSED4wcqvmc9Oq3EBlM
