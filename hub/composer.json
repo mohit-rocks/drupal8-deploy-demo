@@ -12,6 +12,7 @@
         "drupal/deploy": "^1.0@beta",
         "drupal/features": "^3.11",
         "drupal/multiversion": "^1.0@beta",
+        "drupal/paragraphs": "^1.12",
         "drupal/relaxed": "^1.0@beta",
         "drupal/replication": "^1.0@beta",
         "drush/drush": "^9.7.1 | ^10.0",

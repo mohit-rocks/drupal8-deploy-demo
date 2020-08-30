@@ -1,0 +1,13 @@
+name: Recipe
+description: 'Provides Recipe content type and related configuration. Recipe content type to create various types of recipes.'
+type: module
+core: 8.x
+dependencies:
+  - entity_reference_revisions
+  - field
+  - menu_ui
+  - node
+  - paragraphs
+  - path
+  - text
+  - user
