@@ -27,6 +27,7 @@ Currently, both the sites are having their own config directory and independant 
 - Add new remote. Provide full URL as "http://satellite.lndo.site/relaxed" and replicate username and passwords created on the satellite site.
 - After creating remote, run cron so it will get the satellite site's workspaces.
 - Update workspace (http://hub.lndo.site/admin/structure/workspace/1/edit) to point to satellite site's workspace.
+- Enable "recipe" module to get the paragraph type and content types to evalute paragraphs support for the deploy.
 
 ## Video
 - https://www.youtube.com/watch?v=ibBX2cHdhu8
